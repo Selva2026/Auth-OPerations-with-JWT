@@ -23,4 +23,4 @@ Implemention of user authentication and authorization using Bearer tokens in a N
 ## 🛠️ Tech Stack
 | Backend   | Database          | API Testing   |            |        |
 |----------|------------------|------------------------------------------|
-| Node.js, Express.js | MongoDB | jswebtoken |  Mongoose  |  Postman      |
+| Node.js, Express.js | MongoDB ,jswebtoken ,Mongoose, Postman      |
